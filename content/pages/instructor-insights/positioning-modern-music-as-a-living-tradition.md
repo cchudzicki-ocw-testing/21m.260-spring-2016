@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: In this section, Professor Emily Richmond Pollock discusses using visits
+  from contemporary composers to position modern music as a living tradition. She
+  shares her insights about preparing for these visits and facilitating a dialogue
+  between students and the composers.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

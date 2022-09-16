@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This page presents the materials for each class session, including daily
+  agendas, in-class warm-up activities, and descriptions of reading, listening and
+  daily homework assignments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Class Sessions

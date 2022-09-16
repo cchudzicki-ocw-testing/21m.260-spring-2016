@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page summarizes the course goals, coursework and grading policies,
+  and gives a summary calendar of topics and focus composers.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

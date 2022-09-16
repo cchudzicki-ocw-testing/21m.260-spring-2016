@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page describes each writing assignment, and includes sample student
+  work for each.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Papers

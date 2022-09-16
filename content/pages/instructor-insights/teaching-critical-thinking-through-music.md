@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: "In this section, Professor Emily Richmond Pollock shares her insights\
+  \ using music to help students think critically about their own value systems. She\
+  \ also points to ways in which the act of writing papers in the course also helped\
+  \ promote students\u2019 critical thinking. "
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

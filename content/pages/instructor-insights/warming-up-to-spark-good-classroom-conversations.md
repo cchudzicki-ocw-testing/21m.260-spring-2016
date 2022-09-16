@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: In this section, Professor Emily Richmond shares how engaging students
+  in warm-up exercises at the beginning of class sessions aligns with her philosophy
+  of warm-calling on students and how doing so promotes rich, student-led discussions
+  that enable an instructor to help students engage in deep learning.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
